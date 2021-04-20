@@ -1,0 +1,12 @@
+CONTROLS:-)
+W,A,S,D for control.
+1,left click for grass.
+2,left click for stone.
+3,left click for brick.
+4,left click for dirt.
+space for jump.
+esc for exit.
+right click for removing block.
+REQUIREMENT:-)
+PYTHON
+URSINA(pip install ursina)(pip3 install ursina).
